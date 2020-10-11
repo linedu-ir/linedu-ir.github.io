@@ -1,0 +1,54 @@
+{
+  "_args": [
+    [
+      "typeface-yekan@1.0.11",
+      "C:\\Users\\aligh\\Projects\\Personal\\web\\linedu.ir\\site"
+    ]
+  ],
+  "_from": "typeface-yekan@1.0.11",
+  "_id": "typeface-yekan@1.0.11",
+  "_inBundle": false,
+  "_integrity": "sha512-TsewmyzVWJ0Fi97gI5+uBvOP4B8AhT9s6gkvhgLL0zSCfNl4tplK6hXgRjREn7ybSQ+CEl6ak15aCjVfeb1VJA==",
+  "_location": "/typeface-yekan",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "typeface-yekan@1.0.11",
+    "name": "typeface-yekan",
+    "escapedName": "typeface-yekan",
+    "rawSpec": "1.0.11",
+    "saveSpec": null,
+    "fetchSpec": "1.0.11"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/typeface-yekan/-/typeface-yekan-1.0.11.tgz",
+  "_spec": "1.0.11",
+  "_where": "C:\\Users\\aligh\\Projects\\Personal\\web\\linedu.ir\\site",
+  "author": {
+    "name": "JafarRezaei"
+  },
+  "bugs": {
+    "url": "https://github.com/jafar-rezaei/typeface-yekan/issues"
+  },
+  "description": "Easy to use font family",
+  "homepage": "https://github.com/jafar-rezaei/typeface-yekan#readme",
+  "keywords": [
+    "fontfamily",
+    "yekan",
+    "typeface"
+  ],
+  "license": "MIT",
+  "main": "index.css",
+  "name": "typeface-yekan",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jafar-rezaei/typeface-yekan.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.11"
+}
